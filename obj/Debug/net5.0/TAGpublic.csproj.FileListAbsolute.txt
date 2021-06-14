@@ -1,0 +1,16 @@
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.exe
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.deps.json
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.runtimeconfig.json
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.dll
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\ref\TAGpublic.dll
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\bin\Debug\net5.0\TAGpublic.pdb
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.csproj.AssemblyReference.cache
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.AssemblyInfo.cs
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.dll
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\ref\TAGpublic.dll
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.pdb
+C:\Users\Joe\Desktop\TAGpublic\TAGpublic\obj\Debug\net5.0\TAGpublic.genruntimeconfig.cache
