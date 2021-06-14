@@ -6,7 +6,7 @@ namespace TAGpublic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Whatever");
 
             // Read key before closing
             Console.ReadKey();
